@@ -7,7 +7,7 @@ CodeOffer.net is an online marketplace where developers and app entrepreneurs ca
 
 Buyers can browse the marketplace and search for apps based on their preferences, such as app category, price range, and platform compatibility. Each app listing includes a description of the app, screenshots, and reviews from other buyers.
 
-Once a buyer finds an app they are interested in purchasing, they can contact the seller directly to negotiate the terms of the transaction. CodeOffer.net provides secure payment processing to ensure that both the buyer and the seller are protected.
+CodeOffer.net provides secure payment processing to ensure that both the buyer and the seller are protected.
 
 Sellers can list their apps on the platform and set their own prices. They can also communicate with potential buyers to answer any questions and negotiate the terms of the transaction.
 
