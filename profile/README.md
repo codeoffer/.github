@@ -9,8 +9,6 @@ Buyers can browse the marketplace and search for apps based on their preferences
 
 CodeOffer.net provides secure payment processing to ensure that both the buyer and the seller are protected.
 
-Sellers can list their apps on the platform and set their own prices. They can also communicate with potential buyers to answer any questions and negotiate the terms of the transaction.
-
 ### Benefits for Buyers
 
 -   Access to a wide variety of apps and software products
