@@ -1,5 +1,5 @@
 
-## CodeOffer.net
+## CodeOffer.net (discontinued, v2 coming soon!)
 
 CodeOffer.net is an online marketplace where developers and app entrepreneurs can buy and sell mobile apps, web applications, and other software products. The platform offers a variety of applications that are ready for purchase, along with tools and resources to help buyers and sellers connect and conduct transactions.
 
